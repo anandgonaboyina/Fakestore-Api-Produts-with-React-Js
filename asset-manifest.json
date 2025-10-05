@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fakestore-Api-Produts-with-React-Js/static/css/main.80c5ed8c.css",
+    "main.css": "/Fakestore-Api-Produts-with-React-Js/static/css/main.8b8910ef.css",
     "main.js": "/Fakestore-Api-Produts-with-React-Js/static/js/main.3ddee871.js",
     "static/js/453.0bf9bcee.chunk.js": "/Fakestore-Api-Produts-with-React-Js/static/js/453.0bf9bcee.chunk.js",
     "index.html": "/Fakestore-Api-Produts-with-React-Js/index.html",
-    "main.80c5ed8c.css.map": "/Fakestore-Api-Produts-with-React-Js/static/css/main.80c5ed8c.css.map",
+    "main.8b8910ef.css.map": "/Fakestore-Api-Produts-with-React-Js/static/css/main.8b8910ef.css.map",
     "main.3ddee871.js.map": "/Fakestore-Api-Produts-with-React-Js/static/js/main.3ddee871.js.map",
     "453.0bf9bcee.chunk.js.map": "/Fakestore-Api-Produts-with-React-Js/static/js/453.0bf9bcee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c5ed8c.css",
+    "static/css/main.8b8910ef.css",
     "static/js/main.3ddee871.js"
   ]
 }
